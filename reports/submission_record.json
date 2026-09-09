@@ -1,0 +1,28 @@
+{
+  "course": "COM6009",
+  "crosslisted_codes": [
+    "COM3001"
+  ],
+  "blackboard_course_id": "_123464_1",
+  "course_heading": "COM6009.A.275458",
+  "assessment": "Individual Assignment",
+  "assessment_id": "_9066160_1",
+  "attempt_id": "_12640633_1",
+  "attempt": 1,
+  "submitted_at_display": "06/05/2026 23:43 (UTC+8)",
+  "submission_state": "submitted",
+  "downloaded_file": "COM6009_Assignment_Yongjiang.pdf",
+  "bytes": 1842222,
+  "sha256": "85a99558bfe9e290e0bae2bab2f6715ac706649fbe485ed51a82f412dc636fb7",
+  "downloaded_via": "Blackboard submitted attempt: Download original file",
+  "attachment_count_observed": 1,
+  "archived_at_utc": "2026-09-09T10:45:37.302687+00:00",
+  "assessment_url": "https://vle.shef.ac.uk/ultra/courses/_123464_1/assessment/_9066160_1/overview",
+  "repository_path": "reports/COM6009_Assignment_Yongjiang.pdf",
+  "report_title": "Modelling and Simulation of Nonlinear and Ecological Natural Systems",
+  "report_author_as_printed": "Yongjiang",
+  "pdf_pages": 3,
+  "preservation": "Original downloaded PDF preserved byte for byte.",
+  "source_code_status": "Only the PDF was observed in this submitted attempt. All three pages were inspected: no source-code appendix, external code link or embedded file was found. Original simulation code has not been recovered into this repository.",
+  "review_scope": "Report text, all three rendered pages, link annotations and embedded attachments were inspected. No simulations were rerun."
+}
