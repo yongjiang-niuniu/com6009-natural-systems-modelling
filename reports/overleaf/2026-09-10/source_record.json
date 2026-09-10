@@ -1,0 +1,27 @@
+{
+  "export_date": "2026-09-10",
+  "source": "Overleaf project 自然系统",
+  "filename": "COM6009_Natural_Systems_Report_Overleaf_2026-09-10.pdf",
+  "bytes": 1842222,
+  "sha256": "71da58483071e2ce0719bc173c2e4db3b8c1b251d8545d015fb8a5bea8363b34",
+  "canonical_original": {
+    "path": "reports/COM6009_Assignment_Yongjiang.pdf",
+    "sha256": "85a99558bfe9e290e0bae2bab2f6715ac706649fbe485ed51a82f412dc636fb7",
+    "bytes": 1842222
+  },
+  "preserved_without_modification": true,
+  "comparison": {
+    "pages": 3,
+    "text_identical_all_pages": true,
+    "decoded_images_identical": 7,
+    "full_page_render_pixels_identical": true,
+    "render_dpi": 72,
+    "differing_bytes": 138,
+    "differences_only": [
+      "CreationDate",
+      "ModDate",
+      "document /ID fields"
+    ],
+    "other_bytes_identical_after_metadata_normalization": true
+  }
+}
