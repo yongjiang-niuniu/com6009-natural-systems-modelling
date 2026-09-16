@@ -1,6 +1,6 @@
 # Models and reproducibility
 
-These notes describe the [submitted COM6009 report](../reports/COM6009_Assignment_Yongjiang.pdf). All numerical results below are historical results stated in that report. No simulation was rerun while preparing this archive.
+These notes describe the [submitted COM6009 report](../Report.pdf). All numerical results below are historical results stated in that report. No simulation was rerun while preparing this archive.
 
 ## Available evidence
 
@@ -109,6 +109,6 @@ Negative abundance makes this mathematical solution biologically invalid. The re
 
 ## Preservation checks
 
-The archived PDF is byte-identical to the original downloaded from the submitted Blackboard attempt. The [submission record](../reports/submission_record.json) contains its SHA-256 and size. All three pages were rendered and inspected; the text, figures and bibliography are present. The repository records no marks or teacher feedback.
+The archived PDF is byte-identical to the original downloaded from the submitted Blackboard attempt. The [submission record](submission.json) contains its SHA-256 and size. All three pages were rendered and inspected; the text, figures and bibliography are present. The repository records no marks or teacher feedback.
 
 There is no code-level test suite to run for this report archive. A complete reproduction claim would require recovering or explicitly rebuilding the simulations, recording their environment and full configurations, and comparing the resulting figures and numbers with the submitted report.

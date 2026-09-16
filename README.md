@@ -1,8 +1,10 @@
 # Natural Systems Modelling
 
+**[Read the project report](Report.pdf)** · [Report details](docs/REPORT.md)
+
 Three studies of nonlinear and ecological dynamics: numerical sensitivity in a forced Duffing oscillator, local interactions in a stochastic prey–predator model, and the limits of constant predator harvesting in Lotka–Volterra equations.
 
-The [submitted report](reports/COM6009_Assignment_Yongjiang.pdf), **Modelling and Simulation of Nonlinear and Ecological Natural Systems**, presents the methods and six figures in three pages. It was completed as Yongjiang's individual COM6009 assignment at the University of Sheffield.
+The [submitted report](Report.pdf), **Modelling and Simulation of Nonlinear and Ecological Natural Systems**, presents the methods and six figures in three pages. It was completed as Yongjiang's individual COM6009 assignment at the University of Sheffield.
 
 > **中文概述：** 本项目通过 Duffing 振子、草地—兔子—狐狸模型和带捕捞项的 Lotka–Volterra 方程，研究数值误差、随机生态互动及模型适用边界。仓库保留正式提交的三页报告与方法说明；原始仿真代码、数据和随机种子尚未恢复，因此其中的数值结果属于报告中的历史结果。
 
@@ -28,7 +30,7 @@ The [model notes](docs/MODELS_AND_REPRODUCIBILITY.md) record the equations, avai
 
 ## Reading the report
 
-Open the [original PDF](reports/COM6009_Assignment_Yongjiang.pdf) and follow this sequence:
+Open the [original PDF](Report.pdf) and follow this sequence:
 
 | Figures | PDF pages | What to examine |
 | --- | --- | --- |
@@ -53,9 +55,9 @@ These are historical values from the submitted report, not regenerated measureme
 
 | File | Purpose |
 | --- | --- |
-| [Submitted report](reports/COM6009_Assignment_Yongjiang.pdf) | Read the complete original assignment |
+| [Submitted report](Report.pdf) | Read the complete original assignment |
 | [Models and reproducibility](docs/MODELS_AND_REPRODUCIBILITY.md) | Inspect equations, settings, figure references and reproduction gaps |
-| [Submission record](reports/submission_record.json) | Check the Blackboard attempt, submission time, original file size and SHA-256 |
+| [Submission record](docs/submission.json) | Check the Blackboard attempt, submission time, original file size and SHA-256 |
 
 ## Limitations
 
@@ -67,4 +69,4 @@ Exact reproduction requires the original simulations, configurations, seeds and 
 
 The report names its author as **Yongjiang**; this repository is maintained by **Yongjiang Liu**. Blackboard records **Individual Assignment, Attempt 1**, submitted **6 May 2026 at 23:43 (UTC+8)**.
 
-The agent-based model is described as using the module's lecture eco-lab structure. The PDF retains its bibliography and attribution; course teaching materials are not presented here as original student code. The [submission record](reports/submission_record.json) and [preservation notes](docs/MODELS_AND_REPRODUCIBILITY.md#preservation-checks) document the unchanged report. The [three-page Overleaf export checked on 10 September 2026](reports/overleaf/2026-09-10/COM6009_Natural_Systems_Report_Overleaf_2026-09-10.pdf) is preserved separately. Its text, figures and rendered pages match the submission, while PDF timestamps and document IDs change its SHA-256; [version notes](reports/overleaf/2026-09-10/README.md) distinguish the two files. The submitted report remains canonical. Later archive and documentation commits do not recreate its original development history.
+The agent-based model is described as using the module's lecture eco-lab structure. The PDF retains its bibliography and attribution; course teaching materials are not presented here as original student code. The [submission record](docs/submission.json) and [preservation notes](docs/MODELS_AND_REPRODUCIBILITY.md#preservation-checks) document the unchanged report. The official submitted PDF is the single report retained in the repository root; redundant Overleaf exports were removed. Later archive and documentation commits do not recreate its original development history.
